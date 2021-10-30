@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="screen1desc">1-st Activity</string>
+    <string name="btn_to2nd">Go to 2-nd</string>
+    <string name="btn_dialog">Dialog</string>
+    <string name="screen2desc">2-nd Activity</string>
+    <string name="btn_to1st">Go to 1-st</string>
+    <string name="dialogBoxTitle">nG02 Group\'s Dialog</string>
+    <string name="dialogTitle">nG02 Group\'s Dialog</string>
+    <string name="dialog_option1">Ieva Lauga</string>
+    <string name="dialog_option2">Lauris Miķelsons</string>
+    <string name="dialog_option3">Kristaps Josts</string>
+    <string name="btn_dialog_ok">OK</string>
+    <string name="btn_dialog_close">Close</string>
+    <string name="btn_ok_toast">You clicked OK</string>
+    <string name="btn_close_toast">You closed dialog</string>
+    <string name="choices">Close</string>
+
+    <string-array name="choices">
+        <item>Ieva Lauga</item>
+        <item>Lauris Miķelsons</item>
+        <item>Kristaps Josts</item>
+    </string-array>
+
+
+
+</resources>
